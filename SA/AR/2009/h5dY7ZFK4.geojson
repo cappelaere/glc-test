@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 982,
+		"date": "2009-02-09",
+		"time": null,
+		"country": "Argentina",
+		"nearest_places": "Tartagal, Salta",
+		"hazard_type": "landslide",
+		"landslide_type": "Mudslide",
+		"trigger": "Downpour",
+		"storm_name": null,
+		"fatalities": 0,
+		"injuries": null,
+		"source_name": null,
+		"source_link": "http://www.usatoday.com/news/world/2009-02-09-argentina_N.htm?csp=34",
+		"comments": "BUENOS AIRES, Argentina (AP) — Officials say at least 12 people are missing and more than 1,000 residents have been evacuated after a massive mudslide swept away a railroad bridge and homes in a small town on Argentina's northern border with Bolivia. Policeman Dardo Ibarra told Buenos Aires-based Todo Noticias television station that heavy rains flooded the main river running through the town of Tartagal in the province of Salta,  ",
+		"location_description": "Known_within_10_km",
+		"location_accuracy": null,
+		"landslide_size": "Medium",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 982,
+		"countryname": "Argentina",
+		"toponymname": "Tartagal",
+		"distance": 0.42462,
+		"adminname1": "Salta",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 60819,
+		"tz": {
+			"dstOffset": -3,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Argentina/Salta"
+		},
+		"countrycode": "AR",
+		"continentcode": "SA",
+		"key": "h5dY7ZFK4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-63.8,
+			-22.52
+		]
+	}
+}

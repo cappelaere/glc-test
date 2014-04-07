@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 1169,
+		"date": "2009-09-18",
+		"time": null,
+		"country": "Argentina",
+		"nearest_places": "Campo La Paz, remote mountain village",
+		"hazard_type": "landslide",
+		"landslide_type": "Mudslide",
+		"trigger": "Downpour",
+		"storm_name": null,
+		"fatalities": 1,
+		"injuries": null,
+		"source_name": null,
+		"source_link": "http://www.laht.com/article.asp?ArticleId=329219&CategoryId=14093",
+		"comments": "Rescue brigades from Salta found on Saturday the body of a 70-year-old man who went missing the day before together with seven other people when a mudslide fell on a small village in this northern Argentine province, official sources said.  The victim was identified as Marcos Tejerina and among the seven people still missing are two of his granddaughters, one 9 and the other 10 years old.  The heavy rains in the mountain village of Campo La Paz where the mudslide occurred impeded the work of rescuers, who warned that the area is extremely remote and hard to reach. ",
+		"location_description": "Known_within_5_km",
+		"location_accuracy": null,
+		"landslide_size": "Medium",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 1169,
+		"countryname": "Argentina",
+		"toponymname": "Esquiú",
+		"distance": 2.08835,
+		"adminname1": "Catamarca",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 0,
+		"tz": {
+			"dstOffset": -3,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Argentina/Catamarca"
+		},
+		"countrycode": "AR",
+		"continentcode": "SA",
+		"key": "s52cWPmcU"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-65.2853,
+			-29.3999
+		]
+	}
+}

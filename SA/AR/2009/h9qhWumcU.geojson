@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 1364,
+		"date": "2009-12-17",
+		"time": null,
+		"country": "Argentina",
+		"nearest_places": "Mendoza",
+		"hazard_type": "landslide",
+		"landslide_type": "Mudslide",
+		"trigger": "Downpour",
+		"storm_name": null,
+		"fatalities": 1,
+		"injuries": null,
+		"source_name": null,
+		"source_link": "http://www.apakistannews.com/strom-claims-4-lives-in-argentina-152896",
+		"comments": "Storm Claims 4 Lives in Argentina, The death toll from a storm that battered the western Argentine province of Mendoza has risen to four, authorities said. The head of emergency services in Mendoza, Aldo Sarmiento, told reporters that the latest fatality was an 11-year-old boy who was killed when a rain-driven mudslide sent boulders crashing into the car in which he was traveling with his parents.",
+		"location_description": "Unknown",
+		"location_accuracy": null,
+		"landslide_size": "Medium",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 1364,
+		"countryname": "Argentina",
+		"toponymname": "Mendoza",
+		"distance": 1.57629,
+		"adminname1": "Mendoza",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 876884,
+		"tz": {
+			"dstOffset": -3,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Argentina/Mendoza"
+		},
+		"countrycode": "AR",
+		"continentcode": "SA",
+		"key": "h9qhWumcU"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-68.844,
+			-32.8902
+		]
+	}
+}

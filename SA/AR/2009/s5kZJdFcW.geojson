@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 1142,
+		"date": "2009-09-08",
+		"time": null,
+		"country": "Brazil",
+		"nearest_places": "Guaraciaba",
+		"hazard_type": "landslide",
+		"landslide_type": "Complex",
+		"trigger": "Downpour",
+		"storm_name": null,
+		"fatalities": 4,
+		"injuries": null,
+		"source_name": null,
+		"source_link": "http://news.bbc.co.uk/2/hi/8245351.stm",
+		"comments": "In Brazil, four people died in the town of Guaraciaba, while three people were reported to have died in mudslides heavy rains in the state of Sao Paulo.",
+		"location_description": "Known_within_5_km",
+		"location_accuracy": null,
+		"landslide_size": "Medium",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 1142,
+		"countryname": "Argentina",
+		"toponymname": "Bernardo de Irigoyen",
+		"distance": 36.88261,
+		"adminname1": "Misiones",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 10889,
+		"tz": {
+			"dstOffset": -3,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Argentina/Cordoba"
+		},
+		"countrycode": "AR",
+		"continentcode": "SA",
+		"key": "s5kZJdFcW"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-53.5833,
+			-26.5833
+		]
+	}
+}

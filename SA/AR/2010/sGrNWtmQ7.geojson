@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 1510,
+		"date": "2010-02-17",
+		"time": null,
+		"country": "Argentina",
+		"nearest_places": "Comodoro Rivadavia in Chubut province",
+		"hazard_type": "landslide",
+		"landslide_type": "Mudslide",
+		"trigger": "Downpour",
+		"storm_name": null,
+		"fatalities": 3,
+		"injuries": null,
+		"source_name": null,
+		"source_link": "http://momento24.com/en/2010/02/18/mudslide-leaves-two-killed-in-comodoro-rivadavia/",
+		"comments": "A mudslide hit the town of Comodoro Rivadavia in Chubut province, killing an eighteen-years-old girl, an old man and a child who was hospitalized in critical condition. She died swept away by the mudslide and the man for a heart attack when he saw how it destroyed his home. The child was hospitalized in critical condition because he was swept away by the mudslide which he swallowed large quantities of water with mud. Then he dies after agonized several hours. The rains were very heavy in the area because 30 mm of water fell in two hours. This caused the falling down of a huge mass of mud, rocks and vegetation from the hills surrounding the city and it destroyed homes and killed two people. Similarly several vehicles were damaged by the mud that swept through the streets of the city.",
+		"location_description": "Known_within_10_km",
+		"location_accuracy": null,
+		"landslide_size": "Medium",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 1510,
+		"countryname": "Argentina",
+		"toponymname": "Comodoro Rivadavia",
+		"distance": 1.10777,
+		"adminname1": "Chubut",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 140850,
+		"tz": {
+			"dstOffset": -3,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Argentina/Catamarca"
+		},
+		"countrycode": "AR",
+		"continentcode": "SA",
+		"key": "sGrNWtmQ7"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-67.5078,
+			-45.858
+		]
+	}
+}

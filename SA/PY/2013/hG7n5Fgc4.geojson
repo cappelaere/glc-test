@@ -1,0 +1,47 @@
+{
+	"type": "Feature",
+	"properties": {
+		"id": 5288,
+		"date": "2013-08-06",
+		"time": null,
+		"country": "Paraguay",
+		"nearest_places": "Capiata, Central",
+		"hazard_type": "landslide",
+		"landslide_type": "Landslide",
+		"trigger": "Continuous_rain",
+		"storm_name": null,
+		"fatalities": null,
+		"injuries": null,
+		"source_name": "news.sky.com",
+		"source_link": "http://news.sky.com/story/1125098/hunt-for-buried-gold-causes-suburban-landslide",
+		"comments": "A crew of 20 men digging for 10 tons of buried gold have triggered landslides in a suburb of Paraguay's capital. The men claim the treasure trove was buried by the military hero and former president Francisco Solano Lopez. According to the leader of the crew, Alberto Diaz, historical references point to the gold being located in Capiata, 12 miles outside Asuncion. They started digging on Friday but landslides have already started and water is gushing in at the 50ft deep site. Their quest has attracted large crowds of up to 300 people who have been following their progress, even disrupting the local football league game as spectators left to watch the dig instead. Police have been called in to watch over the men as they continue their search, even though they are excavating without a permit. Mr Diaz said: inchesWe are close. We have already hit something. The accumulation of water is preventing us from recovering the gold. inchesToday could be the day. We are very excited.inches Francisco Salano Lopez was President of Paraguay from 1862 to 1870. He was hailed a military hero but was ultimately responsible for the War of the Triple Alliance between Paraguay and the alliance of Brazil, Uruguay and Argentina. He died in battle after vowing to inchesfight to the deathinches for his country in 1870.",
+		"location_description": "Known_within_10_km",
+		"location_accuracy": null,
+		"landslide_size": "Small",
+		"photos_link": null,
+		"cat_src": "glc",
+		"cat_id": 5288,
+		"countryname": "Paraguay",
+		"toponymname": "Capiatá",
+		"distance": 1.52254,
+		"adminname1": "Central",
+		"adminname2": "",
+		"adminname3": "",
+		"population": 198553,
+		"tz": {
+			"dstOffset": -4,
+			"gmtOffset": -3,
+			"timeZoneId": "America/Asuncion"
+		},
+		"countrycode": "PY",
+		"continentcode": "SA",
+		"key": "hG7n5Fgc4"
+	},
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-57.4476,
+			-25.3688
+		]
+	}
+}
